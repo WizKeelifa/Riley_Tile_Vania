@@ -804,7 +804,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7768817, y: 1}
+    m_SensorSize: {x: 1.777528, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -893,7 +893,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7768817, y: 1}
+    m_SensorSize: {x: 1.777528, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -980,7 +980,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -23.737453, y: 8.855902, z: -10}
+  m_LocalPosition: {x: -23.734867, y: 8.85588, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1589,7 +1589,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7768817, y: 1}
+    m_SensorSize: {x: 1.777528, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -28597,14 +28597,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 758010535260996850, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 6200000, guid: bc509f0d501964661bfbf9953f929a39, type: 2}
-    - target: {fileID: 4344636681793088078, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
-      propertyPath: jumpSpeed
-      value: 25
-      objectReference: {fileID: 0}
     - target: {fileID: 4703791515560016353, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -28652,22 +28644,6 @@ PrefabInstance:
     - target: {fileID: 4703791515560016358, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
       propertyPath: m_Name
       value: Jared (Player)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4703791515560016358, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
-      propertyPath: m_Layer
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 4703791515560016358, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6080625826569862288, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
-      propertyPath: m_GravityScale
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 6080625826569862288, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a172ae659378444e4b8e850e1aacad3d, type: 3}
